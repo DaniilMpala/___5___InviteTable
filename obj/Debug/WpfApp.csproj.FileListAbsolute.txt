@@ -1,0 +1,59 @@
+C:\Users\fegff\Desktop\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\fegff\Desktop\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\fegff\Desktop\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\App.g.cs
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\fegff\Desktop\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\fegff\Desktop\RefferalProgramm\bin\Debug\WpfApp.exe.config
+C:\Users\fegff\Desktop\RefferalProgramm\bin\Debug\WpfApp.exe
+C:\Users\fegff\Desktop\RefferalProgramm\bin\Debug\WpfApp.pdb
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\MainWindow.g.cs
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\App.g.cs
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\MainWindow.baml
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.g.resources
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.exe
+C:\Users\fegff\Desktop\RefferalProgramm\obj\Debug\WpfApp.pdb
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\MainWindow.g.cs
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\App.g.cs
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\MainWindow.baml
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\bin\Debug\InviteTable.exe.config
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\bin\Debug\InviteTable.exe
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\bin\Debug\InviteTable.pdb
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\InviteTable_MarkupCompile.cache
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\InviteTable.g.resources
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\InviteTable.Properties.Resources.resources
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\InviteTable.exe
+C:\Users\fegff\Desktop\RefferalProgramm - 2000р\obj\Debug\InviteTable.pdb
+B:\Рабочий стол\RefferalProgramm - 2000р\bin\Debug\InviteTable.exe.config
+B:\Рабочий стол\RefferalProgramm - 2000р\bin\Debug\InviteTable.exe
+B:\Рабочий стол\RefferalProgramm - 2000р\bin\Debug\InviteTable.pdb
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\MainWindow.baml
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\MainWindow.g.cs
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\App.g.cs
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\InviteTable_MarkupCompile.cache
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\InviteTable.g.resources
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\InviteTable.Properties.Resources.resources
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\WpfApp.csproj.GenerateResource.cache
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\InviteTable.exe
+B:\Рабочий стол\RefferalProgramm - 2000р\obj\Debug\InviteTable.pdb
